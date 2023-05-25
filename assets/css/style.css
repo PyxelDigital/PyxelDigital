@@ -67,8 +67,9 @@ body {
 }
 
 #logo {
-  max-width: 50%;
+  max-width: 6rem;
 }
+
 hr {
   margin: 1rem 0;
   color: inherit;
